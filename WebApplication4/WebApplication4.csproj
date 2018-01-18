@@ -72,9 +72,12 @@
     <Content Include="Engine\Levels\Level1.js" />
     <Content Include="Engine\Levels\Level2.js" />
     <Content Include="Engine\Levels\sample.txt" />
+    <Content Include="hex.html" />
     <Content Include="js\cards.js" />
+    <Content Include="js\hex.js" />
     <Content Include="Scripts\jquery-3.0.0.slim.min.map" />
     <Content Include="Scripts\jquery-3.0.0.min.map" />
+    <Content Include="Scripts\bower.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -118,6 +121,8 @@
     <Content Include="Scripts\jquery-3.0.0.min.js" />
     <Content Include="Scripts\jquery-3.0.0.slim.js" />
     <Content Include="Scripts\jquery-3.0.0.slim.min.js" />
+    <Content Include="Scripts\pathfinding-browser.js" />
+    <Content Include="Scripts\pathfinding-browser.min.js" />
     <Content Include="Scripts\popper-utils.js" />
     <Content Include="Scripts\popper-utils.min.js" />
     <Content Include="Scripts\popper.js" />
