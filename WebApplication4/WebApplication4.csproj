@@ -68,6 +68,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".bin\git.cmd" />
+    <None Include=".bin\node.cmd" />
+    <None Include=".bin\npm.cmd" />
     <None Include="packages.config" />
     <Content Include="Engine\Levels\Level1.js" />
     <Content Include="Engine\Levels\Level2.js" />
